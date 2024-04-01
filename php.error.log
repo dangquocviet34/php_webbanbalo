@@ -1,0 +1,62 @@
+[06-Nov-2023 03:41:13 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\Webbanhang2\header.php on line 82
+[06-Nov-2023 03:41:13 UTC] PHP Stack trace:
+[06-Nov-2023 03:41:13 UTC] PHP   1. {main}() C:\wamp64\www\Webbanhang2\index.php:0
+[06-Nov-2023 03:41:13 UTC] PHP   2. include_once() C:\wamp64\www\Webbanhang2\index.php:7
+[06-Nov-2023 03:41:15 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\Webbanhang2\header.php on line 82
+[06-Nov-2023 03:41:15 UTC] PHP Stack trace:
+[06-Nov-2023 03:41:15 UTC] PHP   1. {main}() C:\wamp64\www\Webbanhang2\index.php:0
+[06-Nov-2023 03:41:15 UTC] PHP   2. include_once() C:\wamp64\www\Webbanhang2\index.php:7
+[06-Nov-2023 03:41:27 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\Webbanhang2\header.php on line 82
+[06-Nov-2023 03:41:27 UTC] PHP Stack trace:
+[06-Nov-2023 03:41:27 UTC] PHP   1. {main}() C:\wamp64\www\Webbanhang2\index.php:0
+[06-Nov-2023 03:41:27 UTC] PHP   2. include_once() C:\wamp64\www\Webbanhang2\index.php:7
+[06-Nov-2023 03:44:09 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\Webbanhang2\header.php on line 82
+[06-Nov-2023 03:44:09 UTC] PHP Stack trace:
+[06-Nov-2023 03:44:09 UTC] PHP   1. {main}() C:\wamp64\www\Webbanhang2\index.php:0
+[06-Nov-2023 03:44:09 UTC] PHP   2. include_once() C:\wamp64\www\Webbanhang2\index.php:7
+[06-Nov-2023 03:44:14 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\Webbanhang2\header.php on line 82
+[06-Nov-2023 03:44:14 UTC] PHP Stack trace:
+[06-Nov-2023 03:44:14 UTC] PHP   1. {main}() C:\wamp64\www\Webbanhang2\index.php:0
+[06-Nov-2023 03:44:14 UTC] PHP   2. include_once() C:\wamp64\www\Webbanhang2\index.php:7
+[06-Nov-2023 03:44:24 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\Webbanhang2\header.php on line 82
+[06-Nov-2023 03:44:24 UTC] PHP Stack trace:
+[06-Nov-2023 03:44:24 UTC] PHP   1. {main}() C:\wamp64\www\Webbanhang2\chitiet.php:0
+[06-Nov-2023 03:44:24 UTC] PHP   2. include() C:\wamp64\www\Webbanhang2\chitiet.php:19
+[06-Nov-2023 03:44:40 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\Webbanhang2\header.php on line 82
+[06-Nov-2023 03:44:40 UTC] PHP Stack trace:
+[06-Nov-2023 03:44:40 UTC] PHP   1. {main}() C:\wamp64\www\Webbanhang2\index.php:0
+[06-Nov-2023 03:44:40 UTC] PHP   2. include_once() C:\wamp64\www\Webbanhang2\index.php:7
+[06-Nov-2023 03:44:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\Webbanhang2\header.php on line 82
+[06-Nov-2023 03:44:43 UTC] PHP Stack trace:
+[06-Nov-2023 03:44:43 UTC] PHP   1. {main}() C:\wamp64\www\Webbanhang2\index.php:0
+[06-Nov-2023 03:44:43 UTC] PHP   2. include_once() C:\wamp64\www\Webbanhang2\index.php:7
+[06-Nov-2023 07:49:25 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\Webbanhang2\header.php on line 82
+[06-Nov-2023 07:49:25 UTC] PHP Stack trace:
+[06-Nov-2023 07:49:25 UTC] PHP   1. {main}() C:\wamp64\www\Webbanhang2\index.php:0
+[06-Nov-2023 07:49:25 UTC] PHP   2. include_once() C:\wamp64\www\Webbanhang2\index.php:7
+[06-Nov-2023 07:49:27 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\Webbanhang2\header.php on line 82
+[06-Nov-2023 07:49:27 UTC] PHP Stack trace:
+[06-Nov-2023 07:49:27 UTC] PHP   1. {main}() C:\wamp64\www\Webbanhang2\index.php:0
+[06-Nov-2023 07:49:27 UTC] PHP   2. include_once() C:\wamp64\www\Webbanhang2\index.php:7
+[06-Nov-2023 07:49:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\Webbanhang2\header.php on line 82
+[06-Nov-2023 07:49:43 UTC] PHP Stack trace:
+[06-Nov-2023 07:49:43 UTC] PHP   1. {main}() C:\wamp64\www\Webbanhang2\index.php:0
+[06-Nov-2023 07:49:43 UTC] PHP   2. include_once() C:\wamp64\www\Webbanhang2\index.php:7
+[06-Nov-2023 08:50:34 UTC] PHP Warning:  Undefined variable $email in C:\wamp64\www\Webbanhang2\forgetpwd.php on line 108
+[06-Nov-2023 08:50:34 UTC] PHP Stack trace:
+[06-Nov-2023 08:50:34 UTC] PHP   1. {main}() C:\wamp64\www\Webbanhang2\forgetpwd.php:0
+[06-Nov-2023 08:50:34 UTC] PHP Warning:  Undefined variable $role in C:\wamp64\www\Webbanhang2\forgetpwd.php on line 109
+[06-Nov-2023 08:50:34 UTC] PHP Stack trace:
+[06-Nov-2023 08:50:34 UTC] PHP   1. {main}() C:\wamp64\www\Webbanhang2\forgetpwd.php:0
+[06-Nov-2023 08:57:02 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\Webbanhang2\header.php on line 82
+[06-Nov-2023 08:57:02 UTC] PHP Stack trace:
+[06-Nov-2023 08:57:02 UTC] PHP   1. {main}() C:\wamp64\www\Webbanhang2\index.php:0
+[06-Nov-2023 08:57:02 UTC] PHP   2. include_once() C:\wamp64\www\Webbanhang2\index.php:7
+[06-Nov-2023 08:57:16 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\Webbanhang2\header.php on line 82
+[06-Nov-2023 08:57:16 UTC] PHP Stack trace:
+[06-Nov-2023 08:57:16 UTC] PHP   1. {main}() C:\wamp64\www\Webbanhang2\index.php:0
+[06-Nov-2023 08:57:16 UTC] PHP   2. include_once() C:\wamp64\www\Webbanhang2\index.php:7
+[06-Nov-2023 08:57:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\Webbanhang2\header.php on line 82
+[06-Nov-2023 08:57:26 UTC] PHP Stack trace:
+[06-Nov-2023 08:57:26 UTC] PHP   1. {main}() C:\wamp64\www\Webbanhang2\index.php:0
+[06-Nov-2023 08:57:26 UTC] PHP   2. include_once() C:\wamp64\www\Webbanhang2\index.php:7

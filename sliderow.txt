@@ -1,0 +1,13 @@
+<!-- banner --><div class="banner">
+            <div class="owl-carousel owl-theme">
+
+                <?php
+                $banner_query = mysqli_query($conn,"SELECT * FROM banner ORDER BY id_banner ASC limit 0,5");
+                while ($banner_items = mysqli_fetch_array($banner_query)){
+                    echo '<div class="owl-carousel owl-theme">';
+                    echo '<div class="item"><img src="images/'.$banner_items['link_banner'].'" alt="'.$banner_items['name_banner'].'"></div>';
+                    echo '</div>';
+                }
+                ?>
+            </div>
+        </div><!--end banner-->
